@@ -7,7 +7,7 @@
 | Index | Project 
 |:------:|:-----------------:|
 |   1  |  Hello World
-|   2  |  Sum & Adverage
+|   2  |  Sum & Average
 |   3  |  Number Guessing Game
 |   4  |  Basic Array Sorting
 |   5  |  Inflation Calculation
